@@ -1,0 +1,3 @@
+0 	 TIME TAKEN is 1.00 
+1 	 TIME TAKEN is 0.00 
+0 	 TIME TAKEN is 0.00 
